@@ -1,5 +1,6 @@
 ## Hi there!  I'm Han.👋
-<img width="1584" height="396" alt="White and Gray Minimalist Data Scientist LinkedIn Background Photo" src="https://github.com/user-attachments/assets/182983e3-12d3-4c92-b139-62b6bc104ed9" />
+<img width="1584" height="396" alt="White and Gray Minimalist Data Scientist LinkedIn Background Photo (1)" src="https://github.com/user-attachments/assets/a475aebd-2175-46aa-9986-4559e71a8436" />
+
 
 I am a data-driven professional with experience in supply chain management, including procurement and warehouse operations, and involvement in international development projects with WHO(World Health Organization) and JICA (Japan Internatioanal Cooperation Agency).
 
@@ -42,11 +43,11 @@ Analyzed the impact factor for supply chain in Paris. <br>
 View Project :
 
 #### 4. DATABASE MANAGEMENT For Biographical Information (Group Project)
-Tools and Concept.: SQL and Relational Database Concept <br>
+Tools and Concepts: SQL and Relational Database Concept <br>
 Creation of DBMS for Computer Science Most Influencial People: Biographical People which can be updated from Web-front page. <br>
 View Project :
 
 ## 📫 Let's Connect
-LinkedIn: www.linkedin.com/in/hansoe
-Email: mghansoe01@gmail.com
-Phone: 240-315-1707
+LinkedIn: www.linkedin.com/in/hansoe<br>
+Email: mghansoe01@gmail.com<br>
+Phone: 240-315-1707<br>

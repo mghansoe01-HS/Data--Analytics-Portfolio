@@ -9,14 +9,14 @@ Currently pursuing a Master’s in Management Information Systems (MIS), Hood Co
 To leverage data analytics and supply chain expertise to improve operational efficiency and support data-driven decision-making.
 
 ## 🛠 Skills and Tools
-** Business Skills **
+**Business Skills**
 - Procurment Management
 - Inventory Management
 - Analytical and Problme Solving
 - Detailed Oriented and Adaptability
 - Communication and Collaboration
 
-** Technical Tools **
+**Technical Tools**
 - Microsoft Office Suit
 - Excel and Power BI (Data Analysis and Visualization)
 - Python (Pandas, Seaborn, Matplotlib)
@@ -24,7 +24,7 @@ To leverage data analytics and supply chain expertise to improve operational eff
 - Machine Learning and Artificial Intelligence 
 - Google Cloud and IBM Watson Studio
 
-## Portfolio Projects
+## 📊 Featured Projects
 
 #### 1. HR Analysis - Headcount and Turnover
 Tools: Microsoft Excel and Power BI 
@@ -46,8 +46,7 @@ Tools: SQL
 Creation of DBMS for Computer Science Most Influencial People: Biographical People which can be updated from Web-front page.
 View Project :
 
-
-## Contact
+## 📫 Let's Connect
 LinkedIn: www.linkedin.com/in/hansoe
 Email: mghansoe01@gmail.com
 Phone: 240-315-1707

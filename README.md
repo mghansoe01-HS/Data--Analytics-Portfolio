@@ -5,14 +5,14 @@
 Hi there!  I'm Han Soe. A former supply chain professional and currently seeking an opportunity to work as a data professioanl who is studying Msc. MIS degree from Hood College, Maryland, USA.
 
 ## Skills and Tools
-* Business Skills
+*** Business Skills**
 - Procurment Management
 - Inventory Management
 - Analytical and Problme Solving
 - Detailed Oriented and Adaptability
 - Communication and Collaboration
 
-* Technical Tools
+*** Technical Tools**
 - Microsoft Office Suit
 - Excel and Power BI (Data Analysis and Visualization)
 - Python (Pandas, Seaborn, Matplotlib)
@@ -22,10 +22,10 @@ Hi there!  I'm Han Soe. A former supply chain professional and currently seeking
 
 ## Portfolio Projects
 
-### 1. HR Analysis - Headcount and Turnover
+#### 1. HR Analysis - Headcount and Turnover
 Tools: Microsoft Excel and Power BI 
 Analysis of HR headcount and Turnover for the organization.
-View Project:
+View Project:[https://github.com/mghansoe01-HS/HAN-SOE/tree/main/01-hr-analysis]
 
 #### 2. Coffee Shop - Sales Analysis
 Tools: Microsoft Excel  

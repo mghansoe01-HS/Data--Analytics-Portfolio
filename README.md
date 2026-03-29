@@ -14,6 +14,7 @@ To leverage data analytics and supply chain expertise to improve operational eff
 - Procurment Management
 - Inventory Management
 - Analytical and Problme Solving
+- Business Data Mining
 - Detailed Oriented and Adaptability
 - Communication and Collaboration
 

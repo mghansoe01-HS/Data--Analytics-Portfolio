@@ -33,5 +33,6 @@ View Here : [Data Projects](https://github.com/hansoe01/data_portfolio_projects/
 
 ## 📫 Let's Connect
 LinkedIn: www.linkedin.com/in/hansoe<br>
+
 Email: mghansoe01@gmail.com<br>
-Phone: 240-315-1707<br>
+

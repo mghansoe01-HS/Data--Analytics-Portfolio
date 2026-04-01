@@ -25,7 +25,7 @@ To leverage data analytics and supply chain expertise to improve operational eff
 - Python (Pandas, Seaborn, Matplotlib)
 - SQL
 - Machine Learning and Artificial Intelligence 
-- Google Cloud and Amazon AWS
+- Google GCP and Amazon AWS
 
 ## 📊 Data Portfolio Projects: 
 View Here : [Data Projects](https://github.com/hansoe01/data_portfolio_projects/blob/main/README.md)
